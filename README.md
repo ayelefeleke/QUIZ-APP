@@ -58,6 +58,8 @@ This project demonstrates:
 * Difficulty levels
 * High score storage using Local Storage
 * Dark mode
-#HERE WHAT THE QUIZ APP LOOKS LIKE ENTER AND TRY THE QUESTIONS
 
+# HERE WHAT THE QUIZ APP LOOKS LIKE ENTER AND TRY THE QUESTIONS
+# Here is the view 
+![QUIZ-APP Screenshot](Screenshot%20.png.png)
 
